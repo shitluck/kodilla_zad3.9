@@ -1,0 +1,45 @@
+body {
+	background-color: #A4B2C0;
+}
+
+form {
+	margin-bottom: 50px;
+	padding: 30px;
+}
+
+#root {
+	margin: 0 auto;
+	max-width: 800px;
+	text-align: center;
+}
+
+label {
+	color: #000000;
+    display: block;
+    font-size: 40px;
+	padding: 10px;
+}
+
+input {
+	font-size: 20px;
+}
+
+#root > div {
+	display: inline-block;
+}
+
+img {
+	margin-top: 25px;
+}
+
+a {
+	display: block;
+	color: #000000;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
